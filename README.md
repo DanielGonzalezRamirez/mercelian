@@ -1,2 +1,2 @@
-# Mercelian
-MERCELIAN repository for updates in the code
+# MERCELIAN
+Repository for updates in the code of the MERCELIAN irrigation controller system
