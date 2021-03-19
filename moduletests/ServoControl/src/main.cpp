@@ -11,8 +11,8 @@
 #define Valve04 15  //D8 is GPIO15 (PWM)
 
 //WiFi Connection configuration
-const char *ssid = "Plata_New";
-const char *password = "64Do94Da96Di";
+const char *ssid = "ssid";
+const char *password = "pass";
 const char *apssid = "espap";
 
 IPAddress ip(192,168,31,4);
