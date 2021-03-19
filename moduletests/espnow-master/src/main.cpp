@@ -6,8 +6,8 @@
 #define SWITCH_GPIO 5 // GPIO5 -> D1
 
 // Replace with your network credentials (STATION)
-const char* ssid = "Plata_New";
-const char* password = "64Do94Da96Di";
+const char* ssid = "ssid";
+const char* password = "pass";
 
 // Definition of MAC address of slave, channel and key for communication
 uint8_t mac_addr_slave[6] = {0x3E, 0x61, 0x05, 0xD1, 0x76, 0xCE};
