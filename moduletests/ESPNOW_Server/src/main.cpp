@@ -8,8 +8,8 @@
 
 
 // Replace with your network credentials (STATION)
-const char* ssid = "Plata_New";
-const char* password = "64Do94Da96Di";
+const char* ssid = "SSID";
+const char* password = "pass";
 
 bool InitializeESPNOW(void);
 bool SetRoleESPNOW(int);
