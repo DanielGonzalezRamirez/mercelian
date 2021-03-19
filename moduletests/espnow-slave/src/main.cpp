@@ -6,8 +6,8 @@
 #define LED 2 // Internal LED GPIO
 
 // Replace with your network credentials (STATION)
-const char* ssid = "Plata_New";
-const char* password = "64Do94Da96Di";
+const char* ssid = "ssid";
+const char* password = "pass";
 
 void ICACHE_FLASH_ATTR simple_cb(u8 *macaddr, u8 *data, u8 len)
 {
